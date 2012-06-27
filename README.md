@@ -11,10 +11,11 @@ SUGGEST is a Top-N recommendation engine that implements a variety of recommenda
 The algorithms implemented by SUGGEST are based on collaborative filtering that is the most successful and widely used framework for building recommender systems. SUGGEST implements two classes of collaborative filtering-based top-N recommendation algorithms, called user-based and item-based.
 
 Install:
-# Download the appropriate SUGGEST distribution for your platform
-# $ ruby extconf.rb # which generates a Makefile
-# $ make # to build the library
-# $ ruby test.rb # to test the library
+
+* Download the appropriate SUGGEST distribution for your platform
+* $ ruby extconf.rb # which generates a Makefile
+* $ make # to build the library
+* $ ruby test.rb # to test the library
 
 Usage: See test.rb for examples on how to use, as well as the documentation
 that comes with the SUGGEST distribution.
