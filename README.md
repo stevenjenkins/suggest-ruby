@@ -13,9 +13,9 @@ The algorithms implemented by SUGGEST are based on collaborative filtering that 
 Install:
 
 * Download the appropriate SUGGEST distribution for your platform
-* $ ruby extconf.rb # which generates a Makefile
-* $ make # to build the library
-* $ ruby test.rb # to test the library
+* ruby extconf.rb # which generates a Makefile
+* make # to build the library
+* ruby test.rb # to test the library
 
 Usage: See test.rb for examples on how to use, as well as the documentation
 that comes with the SUGGEST distribution.
